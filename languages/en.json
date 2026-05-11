@@ -1,5 +1,5 @@
 {
-    "pf2e-karmic-dice": {
+    "pf2e-karmic-dice-draft": {
         "adjustRoll": "Adjusted {originalResult} to {result}.",
         "headers": {
             "roles": "Roles",
