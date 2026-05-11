@@ -2,10 +2,15 @@
     "id": "pf2e-karmic-dice",
     "title": "PF2e Karmic Dice",
     "description": "Adds Karmic Dice to all check rolls in Pathfinder 2nd Edition.",
-    "version": "6.0.0",
+    "version": "6.1.0",
     "compatibility": {
         "minimum": "12",
-        "verified": "12"
+        "verified": "14"
+    },
+    "relationships": {
+        "requires": [
+            { "id": "pf2e", "type": "system" }
+        ]
     },
     "esmodules": [
         "esmodules/module.js"
