@@ -1,15 +1,15 @@
-div[data-setting-id="pf2e-karmic-dice.player"]>p.notes {
+div[data-setting-id="pf2e-karmic-dice-draft.player"]>p.notes {
     display: none;
 }
 
-div[data-setting-id="pf2e-karmic-dice.trusted"]>p.notes {
+div[data-setting-id="pf2e-karmic-dice-draft.trusted"]>p.notes {
     display: none;
 }
 
-div[data-setting-id="pf2e-karmic-dice.assistant"]>p.notes {
+div[data-setting-id="pf2e-karmic-dice-draft.assistant"]>p.notes {
     display: none;
 }
 
-div[data-setting-id="pf2e-karmic-dice.gamemaster"]>p.notes {
+div[data-setting-id="pf2e-karmic-dice-draft.gamemaster"]>p.notes {
     display: none;
 }
